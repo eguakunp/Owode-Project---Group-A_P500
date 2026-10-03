@@ -15,8 +15,3 @@ In emerging markets, millions of sellers rely heavily on channels like WhatsApp,
 * **Owode Campus Marketplace:** Tailored discovery experiences where students and creators can buy and sell products directly within their campus communities.
 * **Owode BI (Business Intelligence):** An intelligence layer providing data insights on overall business health, revenue, traffic sources, product performance, and customer behavior.
 
-## Regulatory & Ecosystem Recognition
-Owode Commerce is officially recognized within Nigeria's innovation ecosystem and has been granted the **Nigeria Startup Label** under the **Nigeria Startup Act**. This recognition underscores its role in driving technology-enabled retail infrastructure and small business empowerment across African markets.
-
----
-*For more information, visit the official [Owode Commerce Portal](https://owode.co/).*
